@@ -23,6 +23,6 @@
   <a href = "mailto:pamisilveira.q@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/p%C3%A2mela-de-souza-silveira-473450176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/pamm31/pamm31/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Pamm31/Pamm31/blob/output/github-contribution-grid-snake.svg)
  
 </div>
